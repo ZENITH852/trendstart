@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<!-- saved from url=(0046)https://trendstart-agencies-ulrich.vercel.app/ -->
+<html lang="fr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TrendStar Afrique — Gagne avec ton téléphone</title>
+    <link rel="stylesheet" href="./TrendStar Afrique — Gagne avec ton téléphone_files/style.css">
+  </head>
+  <body>
+    <div class="particles" id="particles"></div>
+
+    <header>
+      <div class="logo" aria-hidden="true">
+        <div class="dot">TS</div>
+        <div>
+          <div style="font-size: 18px">TrendStar</div>
+          <div style="font-size: 12px; opacity: 0.9">
+            Gagne avec ton téléphone
+          </div>
+        </div>
+      </div>
+
+      <nav aria-label="Navigation principale">
+        <a href="https://trendstart-agencies-ulrich.vercel.app/#comment">Comment ça marche</a>
+        <a href="https://trendstart-agencies-ulrich.vercel.app/#affiliation">Affiliation</a>
+        <a href="https://trendstart-agencies-ulrich.vercel.app/#formations">Formations</a>
+        <a href="https://trendstart-agencies-ulrich.vercel.app/#premium">Premium</a>
+      </nav>
+    </header>
+
+    <main>
+  
+      <section class="hero" id="top">
+        <div class="card">
+          <div class="headline">
+            💸 Gagne de l'argent en ligne depuis ton téléphone
+          </div>
+          <p class="sub">
+            Tu démarres avec <strong>4 000 FCFA</strong>, tu fais de simples
+            tâches digitales, et tu gagnes de l'argent chaque semaine. Paiement
+            via Orange Money, Wave, Move Money, MTN Money, Airtel Money, Flooz,
+            etc.
+          </p>
+
+          <div class="menu-row">
+            <button class="nav-btn" onclick="scrollToId(&#39;comment&#39;)">
+              Comment ça marche
+            </button>
+            <button class="nav-btn" onclick="scrollToId(&#39;affiliation&#39;)">
+              Plan d'affiliation
+            </button>
+            <button class="nav-btn" onclick="scrollToId(&#39;formations&#39;)">
+              Formations
+            </button>
+          </div>
+
+          <div class="info-list">
+            <div class="info-item">
+              <strong class="tag">Démarrage</strong>
+              <strong>4 000 FCFA</strong> — paiement unique d'activation
+            </div>
+            <div class="info-item">
+              <strong class="tag">Paiement</strong> Automatique via Orange
+              Money, Wave, Move Money
+            </div>
+            <div class="info-item">
+              <strong class="tag">Disponible</strong> Côte d'Ivoire, Cameroun,
+              Sénégal, Mali, Togo, Bénin, Burkina Faso, Gabon, Congo, Kenya,
+              Ghana, Tanzanie, Ouganda
+            </div>
+          </div>
+
+          <div class="cta">
+            <a id="waLinkTop" class="btn-wa" href="https://wa.me/237679197388" target="_blank" rel="noopener">📲 Commencer maintenant</a>
+            <a class="btn-join" href="https://trendstart-agencies-ulrich.vercel.app/#comment" onclick="scrollToId(&#39;comment&#39;)">Voir comment ça marche</a>
+          </div>
+        </div>
+
+        <aside class="img-stack" aria-label="Image de la plateforme">
+          <img id="image-platform" src="./TrendStar Afrique — Gagne avec ton téléphone_files/promo.jpg" alt="Image de la plateforme TrendStar">
+        </aside>
+      </section>
+
+      <!-- COMMENT CA FONCTIONNE -->
+      <section class="card" id="comment" style="max-width: 1100px; margin: 18px auto; padding: 20px">
+        <h2 style="margin: 0 0 8px 0">⚙️ Comment ça fonctionne</h2>
+        <p class="muted">
+          Processus simple en 3 étapes : inscription → tâches → paiement
+          automatique
+        </p>
+
+        <ol style="margin-top: 12px">
+          <li>
+            <strong>1️⃣ Inscris-toi sur TrendStar</strong> : clique sur le bouton
+            WhatsApp pour recevoir le lien officiel et le guide d'inscription.
+          </li>
+          <li>
+            <strong>2️⃣ Effectue des mini-tâches digitales</strong> : partages,
+            visionnages, recommandations et bien d'autres tâches simples depuis
+            ton téléphone.
+          </lli>i>
+          <
+            <strong>3️⃣ Encaisse tes gains automatiquement</strong> : une fois le
+            seuil atteint, la plateforme déclenche le paiement sur ton
+            portefeuille mobile.
+          </li>
+        </ol>
+
+        <div style="display: flex; gap: 12px; margin-top: 14px; flex-wrap: wrap">
+          <a class="btn-join" href="https://trendstart-agencies-ulrich.vercel.app/#affiliation" onclick="scrollToId(&#39;affiliation&#39;)">Voir le plan d'affiliation</a>
+          <a class="btn-wa" href="https://wa.me/237679197388" target="_blank" rel="noopener">Contact WhatsApp</a>
+        </div>
+      </section>
+
+      <!-- PLAN D'AFFILIATION -->
+      <section class="card" id="affiliation" style="max-width: 1100px; margin: 18px auto; padding: 20px">
+        <h2 style="margin: 0 0 8px 0">💰 Plan d'affiliation</h2>
+        <p class="muted">
+          Ton équipe te rapporte de l'argent même pendant ton sommeil !
+        </p>
+
+        <div class="affiliation-box">
+          <div class="affiliation-item">
+            <span class="affiliation-icon">🔸</span>
+            <div><strong>Niveau 1 :</strong> 2 000 FCFA par filleul direct</div>
+          </div>
+          <div class="affiliation-item">
+            <span class="affiliation-icon">🔹</span>
+            <div>
+              <strong>Niveau 2 :</strong> 800 FCFA par filleul de ton filleul
+            </div>
+          </div>
+          <div class="affiliation-item">
+            <span class="affiliation-icon">🔸</span>
+            <div>
+              <strong>Niveau 3 :</strong> 400 FCFA sur les affiliés du niveau 3
+            </div>
+          </div>
+        </div>
+
+        <p style="
+            margin-top: 14px;
+            padding: 12px;
+            background: rgba(255, 122, 0, 0.05);
+            border-radius: 8px;
+            border-left: 3px solid var(--orange);
+          ">
+          💬 <strong>Gagne passivement :</strong> Chaque personne que tu
+          parraines te rapporte de l'argent, et chaque personne qu'elle parraine
+          aussi ! C'est un revenu continu qui grandit avec ton réseau.
+        </p>
+
+        <div style="display: flex; gap: 12px; margin-top: 14px; flex-wrap: wrap">
+          <a class="btn-wa" href="https://wa.me/237679197388" target="_blank" rel="noopener">Je veux démarrer maintenant</a>
+          <a class="btn-join" href="https://trendstart-agencies-ulrich.vercel.app/#formations" onclick="scrollToId(&#39;formations&#39;)">Voir les formations</a>
+        </div>
+      </section>
+
+      <!-- FORMATIONS -->
+      <section class="card" id="formations" style="max-width: 1100px; margin: 18px auto; padding: 20px">
+        <h2 style="margin: 0 0 8px 0">🎓 Formations offertes (15+)</h2>
+        <p class="muted">
+          En rejoignant TrendStar, tu accèdes à plus de 14 formations digitales
+          premium. Apprends, applique, et gagne depuis ton téléphone.
+        </p>
+
+        <div class="feature-grid">
+          <div class="feature-card">
+            <h3>🌐 Commerce Chine–Afrique</h3>
+            <p>Importe depuis Alibaba et vends localement</p>
+          </div>
+          <div class="feature-card">
+            <h3>🪙 Crypto &amp; NFT</h3>
+            <p>Les bases de la blockchain et des actifs numériques</p>
+          </div>
+          <div class="feature-card">
+            <h3>📦 Dropshipping &amp; E-commerce</h3>
+            <p>Crée une boutique en ligne sans stock</p>
+          </div>
+          <div class="feature-card">
+            <h3>🎬 Création de comptes monétisés</h3>
+            <p>YouTube, TikTok, Instagram pour gagner</p>
+          </div>
+          <div class="feature-card">
+            <h3>🤖 Intelligence artificielle</h3>
+            <p>ChatGPT et automatisation pour business digital</p>
+          </div>
+          <div class="feature-card">
+            <h3>🛒 Boutique Shopify</h3>
+            <p>Créer et gérer ta boutique en ligne professionnelle</p>
+          </div>
+          <div class="feature-card">
+            <h3>📢 Marketing d'affiliation</h3>
+            <p>Techniques éprouvées pour générer des revenus passifs</p>
+          </div>
+          <div class="feature-card">
+            <h3>📈 Trading pour débutants</h3>
+            <p>Investissements intelligents et stratégies</p>
+          </div>
+          <div class="feature-card">
+            <h3>🗣️ Apprendre l'anglais</h3>
+            <p>Maîtrise l'anglais facilement et rapidement</p>
+          </div>
+          <div class="feature-card">
+            <h3>⏰ Productivité &amp; Business</h3>
+            <p>Organise ton temps et développe ton business</p>
+          </div>
+          <div class="feature-card">
+            <h3>🎥 TikTok Monetization</h3>
+            <p>Crée du contenu viral et monétise tes vidéos</p>
+          </div>
+          <div class="feature-card">
+            <h3>🤖 Automatisation ChatGPT</h3>
+            <p>Automatise tes taches avec l'IA</p>
+          </div>
+        </div>
+        <div style="display: flex; gap: 12px; margin-top: 14px; flex-wrap: wrap">
+          <a class="btn-wa" href="https://wa.me/237679197388" target="_blank" rel="noopener">Accéder aux formations</a>
+          <a class="btn-join" href="https://trendstart-agencies-ulrich.vercel.app/#premium" onclick="scrollToId(&#39;premium&#39;)">Voir l'offre Premium</a>
+        </div>
+      </section>
+      <!-- PREMIUM SECTION -->
+      <section class="card" id="premium" style="max-width: 1100px; margin: 18px auto; padding: 20px">
+        <h2 style="margin: 0 0 8px 0">⭐ Offre Premium</h2>
+        <p class="muted">
+          Passe au niveau supérieur avec TrendStar Premium. Accès exclusif à des
+          outils avancés, formations supplémentaires, et support prioritaire.
+        </p>
+
+        <ul style="margin-top: 12px">
+          <li>
+            <strong>Outils avancés :</strong> Accès à des applications et
+            ressources premium pour maximiser tes gains.
+          </li>
+          <li>
+            <strong>Formations exclusives :</strong> Contenu supplémentaire
+            réservé aux membres Premium.
+          </li>
+          <li>
+            <strong>Support prioritaire :</strong> Assistance rapide et dédiée
+            pour toutes tes questions.
+          </li>
+        </ul>
+
+        <div style="display: flex; gap: 12px; margin-top: 14px; flex-wrap: wrap">
+          <a class="btn-wa" href="https://wa.me/237679197388" target="_blank" rel="noopener">Devenir membre Premium</a>
+          <a class="btn-join" href="https://trendstart-agencies-ulrich.vercel.app/#top" onclick="scrollToId(&#39;top&#39;)">Retour en haut</a>
+        </div>
+      </section>
+      <section class="card" id="preuves">
+        <h2>Preuves &amp; Résultats de nos abonnés</h2>
+        <p class="muted">
+          Découvre ici quelques résultats réels de nos abonnés 🔥 (images
+          floutées pour confidentialité)
+        </p>
+
+        <div class="gallery">
+          <div class="thumb">
+            <img src="./TrendStar Afrique — Gagne avec ton téléphone_files/om.jpg" alt="Preuve paiement abonné 1">
+          </div>
+          <div class="thumb">
+            <img src="./TrendStar Afrique — Gagne avec ton téléphone_files/preuve.jpg" alt="Preuve paiement abonné 2">
+          </div>
+          <div class="thumb">
+            <img src="./TrendStar Afrique — Gagne avec ton téléphone_files/fille.jpg" alt="Preuve paiement abonné 3">
+          </div>
+          <div class="thumb">
+            <img src="./TrendStar Afrique — Gagne avec ton téléphone_files/preuve4.jpg" alt="Preuve paiement abonné 4">
+          </div>
+        </div>
+      </section>
+
+      <section class="card" id="promoteur" style="max-width: 1100px; margin: 18px auto; padding: 20px">
+        <h2 style="margin: 0 0 8px 0">Promoteur</h2>
+        <p class="muted">
+          Contact direct : clique sur WhatsApp pour parler au promoteur et
+          démarrer l'onboarding personnalisé.
+        </p>
+
+        <div style="
+            display: flex;
+            gap: 14px;
+            align-items: center;
+            margin-top: 12px;
+            flex-wrap: wrap;
+          ">
+          <div style="
+              width: 160px;
+              border-radius: 12px;
+              overflow: hidden;
+              box-shadow: 0 12px 30px rgba(11, 18, 32, 0.06);
+            ">
+            <img src="./TrendStar Afrique — Gagne avec ton téléphone_files/WhatsApp Image 2025-11-03 at 5.29.27 PM.jpeg" alt="Photo promoteur" style="width: 100%; display: block; object-fit: cover">
+          </div>
+
+          <div style="flex: 1">
+            <div style="font-size: 16px; font-weight: 800">
+              Nom du Promoteur: Monsieur Urich
+            </div>
+            <div class="muted" style="margin-top: 6px">
+              Formations + accompagnement personnalisé. Onboarding en direct
+              pour les 10 premiers inscrits.
+            </div>
+            <div style="margin-top: 5px; display:flex; gap: 10px">
+              <a class="btn-wa" href="https://wa.me/237679197388" target="_blank" rel="noopener" style="background:linear-gradient(90deg,#FF7A00,#00baff);color:white;padding:14px 22px;text-decoration:none;border-radius:12px;font-weight:700;box-shadow:0 3px 10px rgba(0,0,0,0.15);">Contacter le promoteur</a>
+              <a href="https://trendstaragencies.com/register/mrurich" target="_blank" style="background:linear-gradient(90deg,#FF7A00,#00baff);color:white;padding:14px 22px;text-decoration:none;border-radius:12px;font-weight:700;box-shadow:0 3px 10px rgba(0,0,0,0.15);">
+                🚀 Clique ici pour t’inscrire
+              </a>              
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer>
+      © 2025-2035 TrendStar Afrique. Tous droits réservés Monsieur Urich.
+    </footer>
+    <div class="modal" id="imageModal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <div class="modal-card">
+        <img id="modalImage" src="https://trendstart-agencies-ulrich.vercel.app/" alt="Agrandissement de l&#39;image">
+        <div class="modal-footer">
+          <button class="close-btn" onclick="closeModal()">Fermer</button>
+        </div>
+      </div>
+    </div>
+  
+
+</body></html>
